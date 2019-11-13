@@ -1,9 +1,9 @@
-import React from "React"
+import React from "react"
 
 const Apple = () => {
     return (
         <div>
-            This is an <strong>Apple</strong>
+            This is an <strong>Apple</strong> and delicious
         </div>
     )
 }
